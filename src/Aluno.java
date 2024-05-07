@@ -39,10 +39,6 @@ public class Aluno {
         return cre;
     }
 
-    public void setCre(double cre) {
-        this.cre = cre;
-    }
-
     public double calcularCre(){
 
         double cre = 0;
